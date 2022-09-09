@@ -98,3 +98,6 @@ Lab 22: [Training and deploying a model from a notebook running in a Compute Ins
 
 
 Lab 23: [Explore model explanations](./aml-visual-interface/lab-23/README.md)
+
+## Original Authors
+The current repository has been forked from this repo: https://github.com/solliancenet/udacity-intro-to-ml-labs
